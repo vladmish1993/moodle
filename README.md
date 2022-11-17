@@ -8,7 +8,7 @@ The module located in local/coursecomplete
 This is a course complete reports plugin for moodle. It will display the table with users and completed courses by them.
 
 ## Functionality
-- When installing, creates a menu item in the Reports tab in admin part. http://joxi.ru/bmoajngSlo7Z9A
+- When installing, creates a menu item in the Reports tab in admin part. https://prnt.sc/M5CbvOdjDiAp
 - Access only for admins
-- First it shows the list of users, which was online at least once http://joxi.ru/V2VqjEOhGV8y8m
-- When selected user, it will shows all courses which user has complete. http://joxi.ru/EA4EVjoS0Zv75r
+- First it shows the list of users, which was online at least once https://prnt.sc/NaeLyac_mjLv
+- When selected user, it will shows all courses which user has complete. https://prnt.sc/7B2YiRyXH3Ou
