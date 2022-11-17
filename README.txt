@@ -1,28 +1,14 @@
-                                 .-..-.
-   _____                         | || |
-  /____/-.---_  .---.  .---.  .-.| || | .---.
-  | |  _   _  |/  _  \/  _  \/  _  || |/  __ \
-  * | | | | | || |_| || |_| || |_| || || |___/
-    |_| |_| |_|\_____/\_____/\_____||_|\_____)
+# Moodle plugin for generate course complete reports
 
-Moodle - the world's open source learning platform
+The module has been writen for Moodle LMS using its API and follows the Moodle code formatted principles.
+The module located in local/coursecomplete
 
-Moodle <https://moodle.org> is a learning platform designed to provide
-educators, administrators and learners with a single robust, secure and
-integrated system to create personalised learning environments.
+# Course Complete
 
-You can download Moodle <https://download.moodle.org> and run it on your own
-web server, ask one of our Moodle Partners <https://moodle.com/partners/> to
-assist you, or have a MoodleCloud site <https://moodle.com/cloud/> set up for
-you.
+This is a course complete reports plugin for moodle. It will display the table with users and completed courses by them.
 
-Moodle is widely used around the world by universities, schools, companies and
-all manner of organisations and individuals.
-
-Moodle is provided freely as open source software, under the GNU General Public
-License <https://docs.moodle.org/dev/License>.
-
-Moodle is written in PHP and JavaScript and uses an SQL database for storing
-the data.
-
-See <https://docs.moodle.org> for details of Moodle's many features.
+## Functionality
+- When installing, creates a menu item in the Reports tab in admin part. http://joxi.ru/bmoajngSlo7Z9A
+- Access only for admins
+- First it shows the list of users, which was online at least once http://joxi.ru/V2VqjEOhGV8y8m
+- When selected user, it will shows all courses which user has complete. http://joxi.ru/EA4EVjoS0Zv75r
